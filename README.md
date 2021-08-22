@@ -1,15 +1,6 @@
 # Basic Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This is my attempt at building a smart contract which can be used by other developers to offer their customers subscription plans. Note, you should not use this in production as this was part of my solidity training. 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
+To test:
 npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```

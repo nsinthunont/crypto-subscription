@@ -15,5 +15,8 @@
     "ipfs-http-client": "^50.1.2",
     "web-vitals": "^1.0.1",
     "web3modal": "^1.9.4"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.13"
   }
 }
