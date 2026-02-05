@@ -9,7 +9,7 @@
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "chai-bignumber": "^3.0.0",
-    "ethereum-waffle": "^3.4.0",
+    "ethereum-waffle": "^4.0.10",
     "ethers": "^5.4.5",
     "hardhat": "^2.6.1",
     "ipfs-http-client": "^50.1.2",
